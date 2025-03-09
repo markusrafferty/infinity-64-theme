@@ -1,0 +1,31 @@
+{
+	"name": "infinity-64-theme",
+	"displayName": "Infinity 64 Theme by Shingo Murata",
+	"description": "Infinity 64 blackboard & whiteboard themes featuring monochrome syntax highlighting",
+	"version": "1.0.0",
+	"publisher": "markusrafferty",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markusrafferty/infinity-64-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Infinity 64 Whiteboard by Shingo Murata",
+				"uiTheme": "vs",
+				"path": "./themes/whiteboard.json"
+			},
+			{
+				"label": "Infinity 64 Blackboard by Shingo Murata",
+				"uiTheme": "vs-dark",
+				"path": "./themes/blackboard.json"
+			}
+		]
+	}
+}

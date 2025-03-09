@@ -1,0 +1,34 @@
+{
+	"workbench.colorCustomizations": {
+		"editor.foldBackground": "#88888833",
+		"statusBar.background": "#88888811",
+		"editorGutter.background": "#88888800",
+		"activityBar.border": "#88888800",
+		"breadcrumb.background": "#88888800",
+		"debugToolBar.border": "#88888800",
+		"editor.minimap.background": "#88888800",
+		"editorGroup.border": "#88888800",
+		"editorGroup.dropBackground": "#88888800",
+		"editorGroupHeader.tabsBorder": "#88888800",
+		"editorOverviewRuler.border": "#88888800",
+		"editorOverviewRuler.currentContentForeground": "#88888800",
+		"panel.border": "#88888800",
+		"sideBar.border": "#88888800",
+		"sideBarActivityBarTop.border": "#88888800",
+		"statusBar.border": "#88888800",
+		"statusBar.noFolderBorder": "#88888800",
+		"tab.border": "#88888800",
+		"titleBar.border": "#88888800",
+		"tree.indentGuidesStroke": "#88888800",
+		"[GitHub Dark]": {
+			"editor.background": "#11111133"
+		},
+		"[GitHub Light]": {
+			"editor.background": "#dddddd11"
+		},
+		"[shingo-blackboard]": {},
+		"[shingo-whiteboard]": {},
+		"minimap.background": "#88888800",
+		"scrollbar.shadow": "#88888800"
+	}
+}
