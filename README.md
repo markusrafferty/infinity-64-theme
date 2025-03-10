@@ -58,3 +58,5 @@ Thanks to Big Al complex highlighters seem redundant in 2025 inviting this next 
 	"workbench.preferredLightColorTheme": "Infinity 64 Whiteboard by Shingo Murata",
 }
 ```
+
+[![Donate XMR](https://img.shields.io/badge/Donate-Monero-orange?logo=monero)](XMR```43shingofqi5gRhYBft6ErCEZEZbZGDLB3AAiw39gnE31Cjq3cKwrVhKRoSoGj5CMQWqhLMtN21rmgXYHSo2dkXG9Aj7gwa```)
