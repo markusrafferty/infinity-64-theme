@@ -2,7 +2,7 @@
 	"name": "Infinity 64 Whiteboard by Shingo Murata",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ebebec11",
+		"editor.background": "#f3f3f3", // "#dddddd11", // "#ebebec11",
 		"editor.foreground": "#000000",
 		"editor.selectionBackground": "#CC008877",
 		"editor.selectionHighlightBackground": "#CC008844",
@@ -148,7 +148,7 @@
 				"foreground": "#C4D6B2",
 			}
 		},
-		// BB HTMX
+		// WB HTMX
 		{
 			"scope": [
 				"meta.attribute.unrecognized.hx-get punctuation.separator.key-value.html",
