@@ -83,6 +83,8 @@
 				"text.html",
 				"text.xml",
 				"markup.inline.raw.string.markdown",
+"meta.embedded.block.html",
+				"meta.embedded.block.xml",
 			],
 			"settings": {
 				"foreground": "#44880077",
@@ -255,6 +257,9 @@
 				"string.quoted.single.php",
 				"punctuation.separator.delimiter.php",
 				"punctuation.terminator.expression.php",
+				"meta.embedded.block.cpp",
+				"meta.embedded.block.php",
+				"meta.embedded.block.rust",
 			],
 			"settings": {
 				"foreground": "#CC000077",
@@ -384,6 +389,7 @@
 				"meta.attribute.unrecognized.wire:submit punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.wire:loading.attr punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.x-data punctuation.separator.key-value.html",
+				"meta.embedded.block.js",
 			],
 			"settings": {
 				"foreground": "#0044CC77",
@@ -456,6 +462,7 @@
 			"scope": [
 				"source.css",
 				"meta.attribute.class punctuation.separator.key-value.html",
+				"meta.embedded.block.css",
 			],
 			"settings": {
 				"foreground": "#CC880077",
@@ -522,6 +529,8 @@
 			"scope": [
 				"source.json",
 				"source.yaml",
+				"meta.embedded.block.json",
+				"meta.embedded.block.yaml",
 			],
 			"settings": {
 				"foreground": "#CC448877",
@@ -578,6 +587,11 @@
 				"source.ini",
 				"source.toml",
 				"variable.other.env",
+				"meta.embedded.block.editorconfig",
+				"meta.embedded.block.env",
+				"meta.embedded.block.ignore",
+				"meta.embedded.block.ini",
+				"meta.embedded.block.toml",
 			],
 			"settings": {
 				"foreground": "#440088bb",
@@ -629,6 +643,7 @@
 		{
 			"scope": [
 				"source.shell",
+				"meta.embedded.block.shell",
 			],
 			"settings": {
 				"foreground": "#CC440077",
@@ -683,6 +698,7 @@
 		{
 			"scope": [
 				"text.html.markdown",
+				"meta.embedded.block.markdown",
 			],
 			"settings": {
 				// "foreground": "#88884477",
@@ -751,6 +767,7 @@
 		{
 			"scope": [
 				"text.html.django",
+				"meta.embedded.block.django",
 			],
 			"settings": {
 				// "foreground": "#44004477",
