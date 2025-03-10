@@ -30,7 +30,7 @@
 				"source.editorconfig constant.language",
 			],
 			"settings": {
-				"foreground": "#FFFFBBbb",
+				"foreground": "#C2C291",
 			}
 		},
 		{
@@ -40,8 +40,8 @@
 				"punctuation.section.embedded.end.php",
 			],
 			"settings": {
-				// "foreground": "#FFBBFFbb",
-				"foreground": "#FFBBBBbb",
+				// "foreground": "#C290C2",
+				"foreground": "#C29091",
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 				"meta.tag.metadata.doctype.html punctuation.definition.tag.end",
 			],
 			"settings": {
-				"foreground": "#BBFFFFbb",
+				"foreground": "#90C2C2",
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 				"source.editorconfig constant.language",
 			],
 			"settings": {
-				"foreground": "#BBBBBBbb",
+				"foreground": "#909091",
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"meta.shebang.shell",
 			],
 			"settings": {
-				"foreground": "#BBFFBBbb",
+				"foreground": "#90C291",
 			}
 		},
 		// BB HTML / BB XML
@@ -88,7 +88,7 @@
 				"meta.embedded.block.xml",
 			],
 			"settings": {
-				"foreground": "#77BB3377",
+				"foreground": "#466627",
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 				"meta.tag entity.name.tag.localname.xml",
 			],
 			"settings": {
-				"foreground": "#77BB33bb",
+				"foreground": "#5E902D",
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 				"meta.tag.metadata.title.end entity.name.tag.html",
 			],
 			"settings": {
-				"foreground": "#77BB33ff",
+				"foreground": "#77BB33",
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 				"entity.other.attribute-name.localname.xml",
 			],
 			"settings": {
-				"foreground": "#77BB33dd",
+				"foreground": "#6BA630",
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 				"string.quoted.double.xml",
 			],
 			"settings": {
-				"foreground": "#77BB3399",
+				"foreground": "#527B2A",
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				// "punctuation.separator.key-value.html",
 			],
 			"settings": {
-				"foreground": "#77BB33bb",
+				"foreground": "#5E902D",
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 				"comment.block.xml",
 			],
 			"settings": {
-				"foreground": "#77BB3344",
+				"foreground": "#344622",
 			}
 		},
 		// BB HTMX
@@ -178,7 +178,7 @@
 				"meta.attribute.unrecognized.hx-history-elt punctuation.separator.key-value.html",
 			],
 			"settings": {
-				"foreground": "#BB77BB77",
+				"foreground": "#664666",
 			}
 		},
 		{
@@ -209,7 +209,7 @@
 				"meta.attribute.unrecognized.hx-history-elt entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#BB77BBff",
+				"foreground": "#BB77BB",
 			}
 		},
 		{
@@ -240,7 +240,7 @@
 				"meta.attribute.unrecognized.hx-history-elt string.quoted.double.html",
 			],
 			"settings": {
-				"foreground": "#BB77BBbb",
+				"foreground": "#905E91",
 			}
 		},
 		// BB CPP / BB PHP / BB RUST
@@ -263,7 +263,7 @@
 				"meta.embedded.block.xml",
 			],
 			"settings": {
-				"foreground": "#FF777777",
+				"foreground": "#854646",
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 				"punctuation.brackets.square.rust",
 			],
 			"settings": {
-				"foreground": "#FF7777bb",
+				"foreground": "#C25E5F",
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"keyword.operator.borrow.and.rust",
 			],
 			"settings": {
-				"foreground": "#FF7777ff",
+				"foreground": "#FF7777",
 			}
 		},
 		{
@@ -340,7 +340,7 @@
 				"keyword.other.fn.rust",
 			],
 			"settings": {
-				"foreground": "#FF7777dd",
+				"foreground": "#E16B6B",
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 				"entity.name.type.numeric.rust",
 			],
 			"settings": {
-				"foreground": "#FF777799",
+				"foreground": "#A45253",
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"comment.block.documentation.phpdoc.php",
 			],
 			"settings": {
-				"foreground": "#FF777744",
+				"foreground": "#583434",
 			}
 		},
 		// BB JS
@@ -394,7 +394,7 @@
 				"meta.embedded.block.js",
 			],
 			"settings": {
-				"foreground": "#77BBFF77",
+				"foreground": "#466686",
 			}
 		},
 		{
@@ -414,7 +414,7 @@
 				"meta.attribute.unrecognized.x-data entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#77BBFFff",
+				"foreground": "#77BBFF",
 			}
 		},
 		{
@@ -435,7 +435,7 @@
 				"meta.attribute.unrecognized.x-data string.quoted.double.html",
 			],
 			"settings": {
-				"foreground": "#77BBFFbb",
+				"foreground": "#5E90C2",
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 				"entity.name.function.js",
 			],
 			"settings": {
-				"foreground": "#77BBFF99",
+				"foreground": "#527BA4",
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 				"comment.block.js",
 			],
 			"settings": {
-				"foreground": "#77BBFF44",
+				"foreground": "#344659",
 			}
 		},
 		// BB CSS
@@ -467,7 +467,7 @@
 				"meta.embedded.block.css",
 			],
 			"settings": {
-				"foreground": "#BBBB7777",
+				"foreground": "#666646",
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 				"meta.attribute.class entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#BBBB77ff",
+				"foreground": "#BBBB77",
 			}
 		},
 		{
@@ -500,7 +500,7 @@
 				"meta.attribute.class string.quoted.double.html",
 			],
 			"settings": {
-				"foreground": "#BBBB77bb",
+				"foreground": "#90905F",
 			}
 		},
 		{
@@ -514,7 +514,7 @@
 				"entity.other.attribute-name.pseudo-class.css",
 			],
 			"settings": {
-				"foreground": "#BBBB7799",
+				"foreground": "#7B7B53",
 			}
 		},
 		{
@@ -523,7 +523,7 @@
 				"comment.line.css",
 			],
 			"settings": {
-				"foreground": "#BBBB7744",
+				"foreground": "#464634",
 			}
 		},
 		// BB JSON / BB YAML
@@ -535,7 +535,7 @@
 				"meta.embedded.block.yaml",
 			],
 			"settings": {
-				"foreground": "#FF77BB77",
+				"foreground": "#854666",
 			}
 		},
 		{
@@ -544,7 +544,7 @@
 				// "punctuation.separator.key-value.json",
 			],
 			"settings": {
-				"foreground": "#FF77BBbb",
+				"foreground": "#C25E91",
 			}
 		},
 		{
@@ -561,7 +561,7 @@
 				// "constant.numeric.json",
 			],
 			"settings": {
-				"foreground": "#FF77BBff",
+				"foreground": "#FF77BB",
 			}
 		},
 		{
@@ -569,7 +569,7 @@
 				"support.type.property-name.json",
 			],
 			"settings": {
-				"foreground": "#FF77BBbb",
+				"foreground": "#C25E91",
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 				"source.json comment.line.double-slash.js",
 			],
 			"settings": {
-				"foreground": "#FF77BB44",
+				"foreground": "#583446",
 			}
 		},
 		// BB EDITORCONFIG / BB ENV / BB IGNORE / BB INI
@@ -596,7 +596,7 @@
 				"meta.embedded.block.toml",
 			],
 			"settings": {
-				"foreground": "#BB77FFbb",
+				"foreground": "#905EC2",
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 				"support.type.property-name.toml",
 			],
 			"settings": {
-				"foreground": "#BB77FF77",
+				"foreground": "#664686",
 			}
 		},
 		{
@@ -620,7 +620,7 @@
 				// "punctuation.separator.key-value.ini",
 			],
 			"settings": {
-				"foreground": "#BB77FFbb",
+				"foreground": "#905EC2",
 			}
 		},
 		{
@@ -628,7 +628,7 @@
 				"keyword.operator.glob.wildcard.editorconfig",
 			],
 			"settings": {
-				"foreground": "#BB77FFdd",
+				"foreground": "#A66BE1",
 			}
 		},
 		{
@@ -638,7 +638,7 @@
 				"comment.line.number-sign.ini",
 			],
 			"settings": {
-				"foreground": "#BB77FF44",
+				"foreground": "#463459",
 			}
 		},
 		// BB SHELL
@@ -648,7 +648,7 @@
 				"meta.embedded.block.shell",
 			],
 			"settings": {
-				"foreground": "#FFBB7777",
+				"foreground": "#856646",
 			}
 		},
 		{
@@ -658,7 +658,7 @@
 				"keyword.operator.glob.shell",
 			],
 			"settings": {
-				"foreground": "#FFBB77ff",
+				"foreground": "#FFBB77",
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 				"support.function.builtin.shell",
 			],
 			"settings": {
-				"foreground": "#FFBB77bb",
+				"foreground": "#C2905F",
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 				"string.unquoted.argument",
 			],
 			"settings": {
-				"foreground": "#FFBB7799",
+				"foreground": "#A47B53",
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 				"entity.name.command.shell",
 			],
 			"settings": {
-				"foreground": "#FFBB77dd",
+				"foreground": "#E1A66B",
 			}
 		},
 		{
@@ -693,7 +693,7 @@
 				"comment.line.number-sign.shell",
 			],
 			"settings": {
-				"foreground": "#FFBB7744",
+				"foreground": "#584634",
 			}
 		},
 		// BB MARKDOWN
@@ -703,7 +703,7 @@
 				"meta.embedded.block.markdown",
 			],
 			"settings": {
-				// "foreground": "#BBFFBB77",
+				// "foreground": "#668566",
 			}
 		},
 		{
@@ -714,7 +714,7 @@
 				"punctuation.definition.list.begin.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBBff",
+				"foreground": "#BBFFBB",
 			}
 		},
 		{
@@ -723,7 +723,7 @@
 				"markup.horizontal.rule.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBBdd",
+				"foreground": "#A6E1A6",
 			}
 		},
 		{
@@ -733,7 +733,7 @@
 				"markup.raw.block.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBBbb",
+				"foreground": "#90C291",
 			}
 		},
 		{
@@ -742,7 +742,7 @@
 				"markup.quote.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBB99",
+				"foreground": "#7BA47B",
 			}
 		},
 		{
@@ -753,7 +753,7 @@
 				"punctuation.definition.metadata.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBB77",
+				"foreground": "#668566",
 			}
 		},
 		{
@@ -762,7 +762,7 @@
 				"markup.footnote.markdown",
 			],
 			"settings": {
-				"foreground": "#BBFFBB44",
+				"foreground": "#465846",
 			}
 		},
 		// BB DJANGO
@@ -772,7 +772,7 @@
 				"meta.embedded.block.django",
 			],
 			"settings": {
-				// "foreground": "#FFBBFF77",
+				// "foreground": "#856686",
 			}
 		},
 		{
@@ -781,7 +781,7 @@
 				"entity.other.django.delimiter.variable",
 			],
 			"settings": {
-				"foreground": "#FFBBFF77",
+				"foreground": "#856686",
 			}
 		},
 		{
@@ -792,7 +792,7 @@
 				"keyword.operator.arithmetic.django",
 			],
 			"settings": {
-				"foreground": "#FFBBFFff",
+				"foreground": "#FFBBFF",
 			}
 		},
 		{
@@ -801,7 +801,7 @@
 				"punctuation.other.django",
 			],
 			"settings": {
-				"foreground": "#FFBBFFbb",
+				"foreground": "#C290C2",
 			}
 		},
 		{
@@ -811,7 +811,7 @@
 				"string.quoted.double.django",
 			],
 			"settings": {
-				"foreground": "#FFBBFF99",
+				"foreground": "#A47BA4",
 			}
 		},
 		{
@@ -819,56 +819,56 @@
 				"variable.other.django",
 			],
 			"settings": {
-				"foreground": "#FFBBFFbb",
+				"foreground": "#C290C2",
 			}
 		},
 		// BB CSV
 		{
 			"scope": "text.csv rainbow1",
 			"settings": {
-				"foreground": "#77BB33ff",
+				"foreground": "#77BB33",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow2",
 			"settings": {
-				"foreground": "#BB77BBff",
+				"foreground": "#BB77BB",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow3",
 			"settings": {
-				"foreground": "#FF7777ff",
+				"foreground": "#FF7777",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow4",
 			"settings": {
-				"foreground": "#77BBFFff",
+				"foreground": "#77BBFF",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow5",
 			"settings": {
-				"foreground": "#BBBB77ff",
+				"foreground": "#BBBB77",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow6",
 			"settings": {
-				"foreground": "#FF77BBff",
+				"foreground": "#FF77BB",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow7",
 			"settings": {
-				"foreground": "#BB77FFff",
+				"foreground": "#BB77FF",
 			}
 		},
 		{
 			"scope": "text.csv keyword.rainbow8",
 			"settings": {
-				"foreground": "#FFBB77ff",
+				"foreground": "#FFBB77",
 			}
 		},
 			
