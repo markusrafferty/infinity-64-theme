@@ -412,6 +412,7 @@
 				"meta.attribute.unrecognized.wire:loading.attr punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.x-data punctuation.separator.key-value.html",
 				"meta.embedded.block.js",
+				"meta.embedded.block.javascript",
 			],
 			"settings": {
 				"foreground": "#82A1E1",
