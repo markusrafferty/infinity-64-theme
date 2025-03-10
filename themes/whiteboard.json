@@ -14,7 +14,13 @@
 		"editor.wordHighlightStrongBackground": "#0000CC44",
 		"editor.wordHighlightStrongBorder": "#0000CC00",
 		"editorBracketMatch.border": "#00000000",
-		"statusBar.foreground": "#000000"
+		"editorGutter.addedBackground": "#44CC44",
+		"editorGutter.deletedBackground": "#CC4400",
+		"editorGutter.modifiedBackground": "#4488FF",
+		"minimapGutter.addedBackground": "#44CC44",
+		"minimapGutter.deletedBackground": "#CC4400",
+		"minimapGutter.modifiedBackground": "#4488FF",
+		"statusBar.foreground": "#000000",
 	},
 	"tokenColors": [
 		// WB CONSTANTS
