@@ -54,7 +54,7 @@ Thanks to Big Al complex highlighters seem redundant in 2025 inviting this next 
 	"editor.scrollbar.horizontal": "hidden",
 	"window.autoDetectColorScheme": true,
 	"window.systemColorTheme": "auto",
-	"workbench.preferredDarkColorTheme": "Shingo Blackboard",
-	"workbench.preferredLightColorTheme": "Shingo Whiteboard",
+	"workbench.preferredDarkColorTheme": "Infinity 64 Blackboard by Shingo Murata",
+	"workbench.preferredLightColorTheme": "Infinity 64 Whiteboard by Shingo Murata",
 }
 ```
