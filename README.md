@@ -24,6 +24,7 @@ Thanks to Big Al complex highlighters seem redundant in 2025 inviting this next 
 
 ---
 
+![Blackboard](screenshots/bb.png)
 ![Blackboard: JSON](screenshots/bbjson.png)
 ![Blackboard: Env](screenshots/bbenv.png)
 ![Blackboard: XML](screenshots/bbxml.png)
