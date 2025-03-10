@@ -684,6 +684,7 @@
 		{
 			"scope": [
 				"variable.other.normal.shell",
+				"punctuation.definition.variable.shell",
 				"support.function.builtin.shell",
 			],
 			"settings": {
