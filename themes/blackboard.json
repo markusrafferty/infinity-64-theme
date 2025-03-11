@@ -184,7 +184,7 @@
 				"comment.block.xml",
 			],
 			"settings": {
-				"foreground": "#384D23",
+				"foreground": "#3A5124",
 			}
 		},
 		// BB HTMX
@@ -439,7 +439,7 @@
 				"comment.line.number-sign.python",
 			],
 			"settings": {
-				"foreground": "#623838",
+				"foreground": "#683A3A",
 			}
 		},
 		// BB JS // BB TS // BB TSX
@@ -583,7 +583,7 @@
 				"comment.block.tsx",
 			],
 			"settings": {
-				"foreground": "#384D62",
+				"foreground": "#3A5168",
 			}
 		},
 		// BB CSS
@@ -650,7 +650,7 @@
 				"comment.line.css",
 			],
 			"settings": {
-				"foreground": "#585833",
+				"foreground": "#5C5C35",
 			}
 		},
 		// BB JSON / BB YAML
@@ -704,7 +704,7 @@
 				"source.json comment.line.double-slash.js",
 			],
 			"settings": {
-				"foreground": "#62384D",
+				"foreground": "#683A51",
 			}
 		},
 		// BB EDITORCONFIG / BB ENV / BB IGNORE / BB INI
@@ -765,7 +765,7 @@
 				"comment.line.number-sign.ini",
 			],
 			"settings": {
-				"foreground": "#4D3862",
+				"foreground": "#513A68",
 			}
 		},
 		// BB SHELL
@@ -821,7 +821,7 @@
 				"comment.line.number-sign.shell",
 			],
 			"settings": {
-				"foreground": "#624D38",
+				"foreground": "#68513A",
 			}
 		},
 		// BB MARKDOWN
@@ -891,7 +891,7 @@
 				"markup.footnote.markdown",
 			],
 			"settings": {
-				"foreground": "#62624D",
+				"foreground": "#686851",
 			}
 		},
 		// BB DJANGO
