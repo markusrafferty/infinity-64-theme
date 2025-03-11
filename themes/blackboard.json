@@ -72,6 +72,14 @@
 		},
 		{
 			"scope": [
+				"markup.table.markdown",
+			],
+			"settings": {
+				"foreground": "#868686",
+			}
+		},
+		{
+			"scope": [
 				"constant.float",
 				"meta.shebang.shell",
 			],
