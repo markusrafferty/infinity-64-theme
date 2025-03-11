@@ -125,7 +125,6 @@
 				"meta.tag.custom entity.name.tag.html",
 				"meta.tag.metadata.title.start entity.name.tag.html",
 				"meta.tag.metadata.title.end entity.name.tag.html",
-				"support.class.component.tsx",
 			],
 			"settings": {
 				"foreground": "#77BB33",
@@ -136,6 +135,7 @@
 				"meta.attribute.id entity.other.attribute-name.html",
 				"meta.attribute.name entity.other.attribute-name.html",
 				"entity.other.attribute-name.localname.xml",
+				"support.class.component.tsx",
 			],
 			"settings": {
 				"foreground": "#6BA630",
