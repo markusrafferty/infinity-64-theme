@@ -97,13 +97,26 @@
 				"source.tsx meta.tag.tsx",
 				"source.tsx meta.jsx.children",
 				"text.xml",
-				"markup.inline.raw.string.markdown",
 				"meta.embedded.block.html",
+				"meta.embedded.block.xml",
+			],
+			"settings": {
+				"foreground": "#202020",
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.html",
+				"entity.other.attribute-name.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"punctuation.separator.key-value.html",
+				"entity.other.attribute-name.tsx",
 				"punctuation.definition.tag.begin.tsx",
 				"punctuation.definition.tag.end.tsx",
 				"meta.tag.tsx keyword.operator.assignment",
-				"entity.other.attribute-name.tsx",
-				"meta.embedded.block.xml",
+				"meta.tag.xml",
+				"punctuation.separator.key-value.xml",
 			],
 			"settings": {
 				"foreground": "#A1C182",
@@ -114,6 +127,7 @@
 				"meta.tag.structure entity.name.tag.html",
 				"entity.name.tag.tsx",
 				"meta.tag entity.name.tag.localname.xml",
+				"markup.inline.raw.string.markdown",
 			],
 			"settings": {
 				"foreground": "#73A541",
