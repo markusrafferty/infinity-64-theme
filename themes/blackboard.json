@@ -120,7 +120,7 @@
 				"punctuation.separator.key-value.xml",
 			],
 			"settings": {
-				"foreground": "#466627",
+				"foreground": "#466646",
 			}
 		},
 		{
@@ -131,7 +131,7 @@
 				"markup.inline.raw.string.markdown",
 			],
 			"settings": {
-				"foreground": "#5F912D",
+				"foreground": "#5F915F",
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 				"meta.tag.metadata.title.end entity.name.tag.html",
 			],
 			"settings": {
-				"foreground": "#77BB33",
+				"foreground": "#77BB77",
 			}
 		},
 		{
@@ -152,7 +152,7 @@
 				"support.class.component.tsx",
 			],
 			"settings": {
-				"foreground": "#6BA630",
+				"foreground": "#6BA66B",
 			}
 		},
 		{
@@ -163,7 +163,7 @@
 				"string.quoted.double.xml",
 			],
 			"settings": {
-				"foreground": "#537B2A",
+				"foreground": "#537B53",
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 				// "punctuation.separator.key-value.html",
 			],
 			"settings": {
-				"foreground": "#5F912D",
+				"foreground": "#5F915F",
 			}
 		},
 		{
@@ -184,7 +184,7 @@
 				"comment.block.xml",
 			],
 			"settings": {
-				"foreground": "#3A5124",
+				"foreground": "#3A513A",
 			}
 		},
 		// BB HTMX
@@ -958,7 +958,7 @@
 		{
 			"scope": "text.csv rainbow1",
 			"settings": {
-				"foreground": "#77BB33",
+				"foreground": "#77BB77",
 			}
 		},
 		{
