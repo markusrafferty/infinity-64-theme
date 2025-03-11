@@ -284,6 +284,7 @@
 				"punctuation.terminator.expression.php",
 				"meta.embedded.block.cpp",
 				"meta.embedded.block.php",
+				"meta.embedded.block.python",
 				"meta.embedded.block.rust",
 			],
 			"settings": {

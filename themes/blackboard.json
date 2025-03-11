@@ -285,7 +285,8 @@
 				"punctuation.terminator.expression.php",
 				"meta.embedded.block.cpp",
 				"meta.embedded.block.php",
-				"meta.embedded.block.xml",
+				"meta.embedded.block.python",
+				"meta.embedded.block.rust",
 			],
 			"settings": {
 				"foreground": "#864646",
