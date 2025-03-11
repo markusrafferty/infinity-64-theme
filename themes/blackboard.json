@@ -112,7 +112,7 @@
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.separator.key-value.html",
-				"entity.other.attribute-name.tsx",
+				"entity.name.tag.tsx",
 				"punctuation.definition.tag.begin.tsx",
 				"punctuation.definition.tag.end.tsx",
 				"meta.tag.tsx keyword.operator.assignment",
@@ -126,7 +126,7 @@
 		{
 			"scope": [
 				"meta.tag.structure entity.name.tag.html",
-				"entity.name.tag.tsx",
+				"entity.other.attribute-name.tsx",
 				"meta.tag entity.name.tag.localname.xml",
 				"markup.inline.raw.string.markdown",
 			],

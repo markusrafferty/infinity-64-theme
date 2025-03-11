@@ -4,7 +4,7 @@
 	"description": "Infinity 64 blackboard & whiteboard themes featuring monochrome syntax highlighting",
 	"icon": "icon.png",
 	"license": "Apache-2.0",
-	"version": "1.4.5",
+	"version": "1.4.6",
 	"publisher": "markusrafferty",
 	"repository": {
 		"type": "git",
