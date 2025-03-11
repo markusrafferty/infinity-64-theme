@@ -593,6 +593,7 @@
 				// "meta.property-name.css",
 				// "meta.property-value.css",
 				"variable.parameter.url.css",
+				"source.css keyword.other.unit",
 				"meta.attribute.class entity.other.attribute-name.html",
 			],
 			"settings": {
