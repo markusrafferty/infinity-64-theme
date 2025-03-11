@@ -87,13 +87,19 @@
 				"foreground": "#91C291",
 			}
 		},
-		// BB HTML / BB XML
+		// BB HTML / BB TSX / BB XML
 		{
 			"scope": [
 				"text.html",
+				"source.tsx meta.tag.tsx",
+				"source.tsx meta.jsx.children",
 				"text.xml",
 				"markup.inline.raw.string.markdown",
 				"meta.embedded.block.html",
+				"punctuation.definition.tag.begin.tsx",
+				"punctuation.definition.tag.end.tsx",
+				"meta.tag.tsx keyword.operator.assignment",
+				"entity.other.attribute-name.tsx",
 				"meta.embedded.block.xml",
 			],
 			"settings": {
@@ -103,6 +109,7 @@
 		{
 			"scope": [
 				"meta.tag.structure entity.name.tag.html",
+				"entity.name.tag.tsx",
 				"meta.tag entity.name.tag.localname.xml",
 			],
 			"settings": {
@@ -114,6 +121,7 @@
 				"meta.tag.custom entity.name.tag.html",
 				"meta.tag.metadata.title.start entity.name.tag.html",
 				"meta.tag.metadata.title.end entity.name.tag.html",
+				"support.class.component.tsx",
 			],
 			"settings": {
 				"foreground": "#77BB33",
@@ -132,6 +140,8 @@
 		{
 			"scope": [
 				"string.quoted.double.html",
+				// "meta.block string.quoted.double.tsx",
+				"meta.tag.tsx string.quoted.double.tsx",
 				"string.quoted.double.xml",
 			],
 			"settings": {
@@ -141,6 +151,7 @@
 		{
 			"scope": [
 				"string.quoted.single.html",
+				// "meta.block string.quoted.single.tsx",
 				"string.quoted.single.xml",
 				// "punctuation.separator.key-value.html",
 			],
@@ -412,10 +423,12 @@
 				"foreground": "#623838",
 			}
 		},
-		// BB JS
+		// BB JS // BB TS // BB TSX
 		{
 			"scope": [
 				"source.js",
+				"source.ts",
+				"source.tsx",
 				"source.js comment.block storage.type",
 				"meta.attribute.unrecognized.wire:model punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.wire:click punctuation.separator.key-value.html",
@@ -424,6 +437,18 @@
 				"meta.attribute.unrecognized.x-data punctuation.separator.key-value.html",
 				"meta.embedded.block.js",
 				"meta.embedded.block.javascript",
+				"meta.embedded.block.ts",
+				"meta.embedded.block.typescript",
+				"meta.embedded.block.tsx",
+				"punctuation.accessor.tsx",
+				"support.variable.property.tsx",
+				"variable.other.property.tsx",
+				"variable.other.object.property.tsx",
+				"meta.object.member.tsx",
+				"meta.var.expr.tsx",
+				"meta.var.expr meta.brace.round.tsx",
+				"meta.var.expr meta.parameters.tsx",
+				// "source.tsx meta.jsx.children",
 			],
 			"settings": {
 				"foreground": "#466686",
@@ -439,6 +464,24 @@
 				"storage.type.numeric.bigint.js",
 				"entity.name.type.class.js",
 				"entity.other.inherited-class.js",
+				"source.ts keyword.operator",
+				"source.ts keyword.control.import",
+				"source.ts keyword.control.from",
+				"source.ts keyword.control.export",
+				"source.ts storage.type",
+				"storage.type.numeric.bigint.ts",
+				"entity.name.type.class.ts",
+				"entity.other.inherited-class.ts",
+				"source.tsx keyword.operator",
+				"source.tsx keyword.control.import",
+				"source.tsx keyword.control.from",
+				"source.tsx keyword.control.export",
+				"source.tsx storage.type",
+				"storage.type.numeric.bigint.tsx",
+				"entity.name.type.class.tsx",
+				"entity.other.inherited-class.tsx",
+				"punctuation.section.embedded.begin.tsx",
+				"punctuation.section.embedded.end.tsx",
 				"meta.attribute.unrecognized.wire:model entity.other.attribute-name.html",
 				"meta.attribute.unrecognized.wire:click entity.other.attribute-name.html",
 				"meta.attribute.unrecognized.wire:submit entity.other.attribute-name.html",
@@ -460,6 +503,24 @@
 				"meta.brace.square.js",
 				"variable.language.this.js",
 				"storage.modifier.js",
+				"meta.function-call.ts",
+				"variable.other.readwrite.ts",
+				"variable.other.object.ts",
+				"variable.parameter.ts",
+				// "punctuation.separator.key-value.ts",
+				"punctuation.definition.block.ts",
+				"meta.brace.square.ts",
+				"variable.language.this.ts",
+				"storage.modifier.ts",
+				"meta.function-call.tsx",
+				"variable.other.readwrite.tsx",
+				"variable.other.object.tsx",
+				"variable.parameter.tsx",
+				// "punctuation.separator.key-value.tsx",
+				"punctuation.definition.block.tsx",
+				"meta.brace.square.tsx",
+				"variable.language.this.tsx",
+				"storage.modifier.tsx",
 				"meta.attribute.unrecognized.wire:model string.quoted.double.html",
 				"meta.attribute.unrecognized.wire:click string.quoted.double.html",
 				"meta.attribute.unrecognized.wire:submit string.quoted.double.html",
@@ -476,6 +537,15 @@
 				"string.quoted.double.js",
 				"source.js keyword.control",
 				"entity.name.function.js",
+				"string.quoted.single.ts",
+				"string.quoted.double.ts",
+				"source.ts keyword.control",
+				"entity.name.function.ts",
+				"string.quoted.single.tsx",
+				"string.quoted.double.tsx",
+				"source.tsx keyword.control",
+				"entity.name.function.tsx",
+				"string.template.tsx",
 			],
 			"settings": {
 				"foreground": "#537BA4",
@@ -486,6 +556,12 @@
 				"comment.line.double-slash.js",
 				"comment.block.documentation.js",
 				"comment.block.js",
+				"comment.line.double-slash.ts",
+				"comment.block.documentation.ts",
+				"comment.block.ts",
+				"comment.line.double-slash.tsx",
+				"comment.block.documentation.tsx",
+				"comment.block.tsx",
 			],
 			"settings": {
 				"foreground": "#384D62",
