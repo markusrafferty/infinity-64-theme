@@ -596,7 +596,7 @@
 				"meta.embedded.block.css",
 			],
 			"settings": {
-				"foreground": "#76763F",
+				"foreground": "#868646",
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 				"meta.attribute.class entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#DDDD66",
+				"foreground": "#FFFF77",
 			}
 		},
 		{
@@ -630,7 +630,7 @@
 				"meta.attribute.class string.quoted.double.html",
 			],
 			"settings": {
-				"foreground": "#AAAA52",
+				"foreground": "#C2C25F",
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 				"entity.other.attribute-name.pseudo-class.css",
 			],
 			"settings": {
-				"foreground": "#909048",
+				"foreground": "#A4A453",
 			}
 		},
 		{
@@ -653,7 +653,7 @@
 				"comment.line.css",
 			],
 			"settings": {
-				"foreground": "#5C5C35",
+				"foreground": "#68683A",
 			}
 		},
 		// BB JSON / BB YAML
