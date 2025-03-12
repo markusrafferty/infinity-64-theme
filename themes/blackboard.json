@@ -32,6 +32,7 @@
 		{
 			"scope": [
 				"constant.language",
+				"constant.character.escape",
 				"source.editorconfig constant.language",
 			],
 			"settings": {
