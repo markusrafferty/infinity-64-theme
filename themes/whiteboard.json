@@ -448,6 +448,7 @@
 				"source.ts",
 				"source.tsx",
 				"source.js comment.block storage.type",
+				"source.js entity.name.type.instance.jsdoc",
 				"meta.attribute.unrecognized.wire:model punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.wire:click punctuation.separator.key-value.html",
 				"meta.attribute.unrecognized.wire:submit punctuation.separator.key-value.html",
