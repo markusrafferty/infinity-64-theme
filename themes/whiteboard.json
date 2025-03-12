@@ -135,8 +135,10 @@
 		{
 			"scope": [
 				"meta.tag.custom entity.name.tag.html",
+				"text.html constant.character.entity",
 				"meta.tag.metadata.title.start entity.name.tag.html",
 				"meta.tag.metadata.title.end entity.name.tag.html",
+				"text.xml constant.character.entity",
 			],
 			"settings": {
 				"foreground": "#448800",
