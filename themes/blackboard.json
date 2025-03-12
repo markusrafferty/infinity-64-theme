@@ -101,7 +101,7 @@
 				"meta.embedded.block.xml",
 			],
 			"settings": {
-				"foreground": "#E1E1E1",
+				"foreground": "#6BA6A6",
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 				"punctuation.separator.key-value.xml",
 			],
 			"settings": {
-				"foreground": "#466646",
+				"foreground": "#668646",
 			}
 		},
 		{
@@ -130,7 +130,7 @@
 				"markup.inline.raw.string.markdown",
 			],
 			"settings": {
-				"foreground": "#5F915F",
+				"foreground": "#91C25F",
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 				"meta.tag.metadata.title.end entity.name.tag.html",
 			],
 			"settings": {
-				"foreground": "#77BB77",
+				"foreground": "#BBFF77",
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 				"support.class.component.tsx",
 			],
 			"settings": {
-				"foreground": "#6BA66B",
+				"foreground": "#A6E16B",
 			}
 		},
 		{
@@ -162,7 +162,7 @@
 				"string.quoted.double.xml",
 			],
 			"settings": {
-				"foreground": "#537B53",
+				"foreground": "#7BA453",
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				// "punctuation.separator.key-value.html",
 			],
 			"settings": {
-				"foreground": "#5F915F",
+				"foreground": "#91C25F",
 			}
 		},
 		{
@@ -183,7 +183,7 @@
 				"comment.block.xml",
 			],
 			"settings": {
-				"foreground": "#3A513A",
+				"foreground": "#51683A",
 			}
 		},
 		// BB HTMX
@@ -832,7 +832,7 @@
 				"meta.embedded.block.markdown",
 			],
 			"settings": {
-				// "foreground": "#868666",
+				// "foreground": "#466666",
 			}
 		},
 		{
@@ -846,7 +846,7 @@
 				"punctuation.definition.markdown",
 			],
 			"settings": {
-				"foreground": "#FFFFBB",
+				"foreground": "#77BBBB",
 			}
 		},
 		{
@@ -855,7 +855,7 @@
 				"markup.horizontal.rule.markdown",
 			],
 			"settings": {
-				"foreground": "#E1E1A6",
+				"foreground": "#6BA6A6",
 			}
 		},
 		{
@@ -865,7 +865,7 @@
 				"markup.raw.block.markdown",
 			],
 			"settings": {
-				"foreground": "#C2C291",
+				"foreground": "#5F9191",
 			}
 		},
 		{
@@ -874,7 +874,7 @@
 				"markup.quote.markdown",
 			],
 			"settings": {
-				"foreground": "#A4A47B",
+				"foreground": "#537B7B",
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 				"punctuation.definition.metadata.markdown",
 			],
 			"settings": {
-				"foreground": "#868666",
+				"foreground": "#466666",
 			}
 		},
 		{
@@ -894,7 +894,7 @@
 				"markup.footnote.markdown",
 			],
 			"settings": {
-				"foreground": "#686851",
+				"foreground": "#3A5151",
 			}
 		},
 		// BB DJANGO
@@ -958,7 +958,7 @@
 		{
 			"scope": "text.csv rainbow1",
 			"settings": {
-				"foreground": "#77BB77",
+				"foreground": "#BBFF77",
 			}
 		},
 		{
