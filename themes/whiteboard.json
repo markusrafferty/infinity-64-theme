@@ -100,7 +100,7 @@
 				"meta.embedded.block.xml",
 			],
 			"settings": {
-				"foreground": "#96965B",
+				"foreground": "#209696",
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 				"meta.embedded.block.markdown",
 			],
 			"settings": {
-				// "foreground": "#C1C1A1",
+				// "foreground": "#82C1C1",
 			}
 		},
 		{
@@ -829,7 +829,7 @@
 				"meta.attribute.title entity.other.attribute-name.html",
 			],
 			"settings": {
-				"foreground": "#888844",
+				"foreground": "#008888",
 			}
 		},
 		{
@@ -838,7 +838,7 @@
 				"markup.horizontal.rule.markdown",
 			],
 			"settings": {
-				"foreground": "#96965B",
+				"foreground": "#209696",
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 				"meta.attribute.title string.quoted.double.html",
 			],
 			"settings": {
-				"foreground": "#A5A573",
+				"foreground": "#41A5A5",
 			}
 		},
 		{
@@ -859,7 +859,7 @@
 				"markup.quote.markdown",
 			],
 			"settings": {
-				"foreground": "#B3B38A",
+				"foreground": "#61B3B3",
 			}
 		},
 		{
@@ -872,7 +872,7 @@
 				"meta.attribute.title punctuation.separator.key-value.html",
 			],
 			"settings": {
-				"foreground": "#C1C1A1",
+				"foreground": "#82C1C1",
 			}
 		},
 		{
@@ -881,7 +881,7 @@
 				"markup.footnote.markdown",
 			],
 			"settings": {
-				"foreground": "#CFCFB9",
+				"foreground": "#A2CFCF",
 			}
 		},
 		// BB DJANGO
