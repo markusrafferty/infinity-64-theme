@@ -127,7 +127,6 @@
 				"meta.tag.structure entity.name.tag.html",
 				"entity.other.attribute-name.tsx",
 				"meta.tag entity.name.tag.localname.xml",
-				"markup.inline.raw.string.markdown",
 			],
 			"settings": {
 				"foreground": "#91C25F",
@@ -159,6 +158,7 @@
 		{
 			"scope": [
 				"string.quoted.double.html",
+				"markup.inline.raw.string.markdown",
 				// "meta.block string.quoted.double.tsx",
 				"meta.tag.tsx string.quoted.double.tsx",
 				"string.quoted.double.xml",
