@@ -68,16 +68,14 @@
 		},
 		{
 			"scope": [
+				"constant.language.null",
+				"constant.language.undefined",
 				"constant.other.color",
-				"source.editorconfig constant.language",
-			],
-			"settings": {
-				"foreground": "#919191",
-			}
-		},
-		{
-			"scope": [
+				"support.constant.color",
+				// "source.editorconfig constant.language",
 				"markup.table.markdown",
+				"fenced_code.block.language.markdown",
+				"punctuation.definition.markdown",
 			],
 			"settings": {
 				"foreground": "#868686",
