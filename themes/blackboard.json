@@ -844,8 +844,8 @@
 				"markup.list.markdown",
 				"meta.separator.markdown",
 				"punctuation.definition.list.begin.markdown",
-				"fenced_code.block.language.markdown",
-				"punctuation.definition.markdown",
+				"meta.attribute.alt entity.other.attribute-name.html",
+				"meta.attribute.title entity.other.attribute-name.html",
 			],
 			"settings": {
 				"foreground": "#77BBBB",
@@ -865,6 +865,8 @@
 				"string.other.link.title.markdown",
 				"markup.inline.raw.markdown",
 				"markup.raw.block.markdown",
+				"meta.attribute.alt string.quoted.double.html",
+				"meta.attribute.title string.quoted.double.html",
 			],
 			"settings": {
 				"foreground": "#5F9191",
@@ -885,6 +887,8 @@
 				"punctuation.definition.link.title.begin.markdown",
 				"punctuation.definition.link.title.end.markdown",
 				"punctuation.definition.metadata.markdown",
+				"meta.attribute.alt punctuation.separator.key-value.html",
+				"meta.attribute.title punctuation.separator.key-value.html",
 			],
 			"settings": {
 				"foreground": "#466666",
@@ -984,7 +988,7 @@
 		{
 			"scope": "text.csv keyword.rainbow5",
 			"settings": {
-				"foreground": "#DDDD66",
+				"foreground": "#FFFF77",
 			}
 		},
 		{
