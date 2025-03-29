@@ -301,6 +301,7 @@
 				"meta.embedded.block.php",
 				"meta.embedded.block.python",
 				"meta.embedded.block.rust",
+				"meta.attribute.unrecognized.:value.html punctuation.separator.key-value.html",
 			],
 			"settings": {
 				"foreground": "#E18282",
@@ -330,6 +331,7 @@
 				"punctuation.definition.list.end.python",
 				"variable.language.self.rust",
 				"punctuation.brackets.square.rust",
+				"meta.attribute.unrecognized.:value.html string.quoted.double.html",
 			],
 			"settings": {
 				"foreground": "#D64141",
@@ -364,6 +366,7 @@
 				"keyword.blade",
 				"keyword.other.rust",
 				"keyword.operator.borrow.and.rust",
+				"meta.attribute.unrecognized.:value.html entity.other.attribute-name.html",
 			],
 			"settings": {
 				"foreground": "#CC0000",
