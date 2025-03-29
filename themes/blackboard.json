@@ -786,6 +786,7 @@
 				"keyword.operator.pipe.shell",
 				"keyword.operator.redirect.shell",
 				"keyword.operator.glob.shell",
+				"source.shell constant",
 			],
 			"settings": {
 				"foreground": "#FFBB77",
