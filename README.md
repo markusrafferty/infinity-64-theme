@@ -24,7 +24,51 @@ Thanks to Big Al complex highlighters seem redundant in 2025 inviting this next 
 
 ---
 
+## Optional settings overlay for text decorations
+
+Whilst no decorations are often preferential some fonts (eg. Iosevka, Hasklig, TheSansMono) do handle them well:
+
+```json
+{
+	"editor.tokenColorCustomizations": {
+		"[Infinity 64 Blackboard by Shingo Murata]": {
+			"numbers":   { "fontStyle": "bold", },
+			"functions": { "fontStyle": "bold", },
+			"keywords":  { "fontStyle": "bold", },
+			"types":     { "fontStyle": "italic underline", },
+			"variables": { "fontStyle": "italic", },
+			"strings":   { "fontStyle": "italic", },
+			"comments":  { "fontStyle": "italic", },
+			"textMateRules": [
+				{
+					"scope": ["punctuation"],
+					"settings": { "fontStyle": "", },
+				},
+				{
+					"scope": ["constant", "support.constant", "keyword.operator", "keyword.blade", "meta.selector.css", "markup.bold", "meta.tag.metadata.doctype", "meta.tag.preprocessor", "punctuation.section.embedded.begin.php", "comment.line.shebang", "keyword.other.definition.root", "keyword.operator.assignment.env"],
+					"settings": { "fontStyle": "bold", },
+				},
+				{
+					"scope": ["meta.section.header", "meta.section.header punctuation", "keyword.operator.glob"],
+					"settings": { "fontStyle": "underline", },
+				},
+				{
+					"scope": ["variable.language.this", "variable.other.readwrite", "variable.other.object", "markup.heading", "markup.heading punctuation", "variable.other.env"],
+					"settings": { "fontStyle": "italic underline", },
+				},
+				{
+					"scope": ["variable.other.object.property", "markdown.italic"],
+					"settings": { "fontStyle": "italic", },
+				},
+			],
+		},
+	},
+}
+```
+
+![Whiteboard](screenshots/wb.png)
 ![Blackboard](screenshots/bb.png)
+![Blackboard 2](screenshots/bb2.png)
 ![Blackboard: JSON](screenshots/bbjson.png)
 ![Blackboard: Env](screenshots/bbenv.png)
 ![Blackboard: XML](screenshots/bbxml.png)
@@ -42,7 +86,7 @@ Thanks to Big Al complex highlighters seem redundant in 2025 inviting this next 
 
 ## Recommended settings for a minimal interface
 
-```JSON
+```json
 {
 	"editor.bracketPairColorization.enabled": false,
 	"editor.guides.bracketPairs": false,
