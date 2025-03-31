@@ -378,6 +378,7 @@
 				"keyword.operator.logical.cpp",
 				"keyword.operator.arithmetic.cpp",
 				"storage.modifier.final.php",
+				"storage.modifier.reference.php",
 				"entity.name.type.namespace.php",
 				"entity.name.class.php",
 				"entity.name.type.class.php",
