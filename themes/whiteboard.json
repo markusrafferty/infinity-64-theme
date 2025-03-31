@@ -736,7 +736,6 @@
 				"source.ignore",
 				"source.ini",
 				"source.toml",
-				"variable.other.env",
 				"meta.embedded.block.editorconfig",
 				"meta.embedded.block.env",
 				"meta.embedded.block.ignore",
@@ -749,8 +748,17 @@
 		},
 		{
 			"scope": [
+				"variable.other.env",
+			],
+			"settings": {
+				"foreground": "#440088",
+			}
+		},
+		{
+			"scope": [
 				"source.editorconfig keyword.other",
-				"punctuation.separator.key-value.ini",
+				"string.quoted.double.env",
+				// "punctuation.separator.key-value.ini",
 				"keyword.other.definition.ini",
 				"support.type.property-name.toml",
 			],
