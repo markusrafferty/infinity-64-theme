@@ -544,6 +544,7 @@
 				"meta.attribute.unrecognized.wire:submit entity.other.attribute-name.html",
 				"meta.attribute.unrecognized.wire:loading.attr entity.other.attribute-name.html",
 				"meta.attribute.unrecognized.x-data entity.other.attribute-name.html",
+				"meta.attribute.event-handler.error.html",
 			],
 			"settings": {
 				"foreground": "#77BBFF",
