@@ -885,7 +885,6 @@
 		},
 		{
 			"scope": [
-				"markup.heading.markdown",
 				"markup.bold.markdown",
 				"markup.list.markdown",
 				"meta.separator.markdown",
@@ -899,6 +898,7 @@
 		},
 		{
 			"scope": [
+				"markup.heading.markdown",
 				"markup.italic.markdown",
 				"markup.horizontal.rule.markdown",
 			],
