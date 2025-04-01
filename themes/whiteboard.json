@@ -471,6 +471,9 @@
 				"comment.line.double-slash.cpp",
 				"comment.block.documentation.cpp",
 				"comment.block.documentation.phpdoc.php",
+				"comment.block.php",
+				"comment.line.double-slash.php",
+				"comment.line.number-sign.php",
 				"comment.line.number-sign.python",
 			],
 			"settings": {
