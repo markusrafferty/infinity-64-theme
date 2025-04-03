@@ -751,7 +751,7 @@
 		},
 		{
 			"scope": [
-				"variable.other.env",
+				"keyword.other.definition.root.editorconfig",
 			],
 			"settings": {
 				"foreground": "#440088",
@@ -784,7 +784,8 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.glob.wildcard.editorconfig",
+				// "keyword.operator.glob.wildcard.editorconfig",
+				"variable.other.env",
 			],
 			"settings": {
 				"foreground": "#5B2096",
