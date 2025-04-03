@@ -28,7 +28,8 @@
 		"statusBar.foreground": "#000000",
 
 		"activityBar.border": "#88888800",
-		"breadcrumb.background": "#88888800",
+		// "breadcrumb.background": "#88888800",
+		"breadcrumb.foreground": "#888888dd",
 		"debugToolBar.border": "#88888800",
 		"editor.breadcrumb.background": "#00000000",
 		"editor.breadcrumb.foreground": "#88888888",
@@ -52,12 +53,32 @@
 		"panel.border": "#88888800",
 		"sideBar.border": "#88888800",
 		"sideBarActivityBarTop.border": "#88888800",
-		"statusBar.background": "#88888811",
+		// "statusBar.background": "#88888811",
 		"statusBar.border": "#88888800",
 		"statusBar.noFolderBorder": "#88888800",
 		"tab.border": "#88888800",
 		"titleBar.border": "#88888800",
 		"tree.indentGuidesStroke": "#88888800",
+		
+		"sideBar.background": "#ECECECff", // default "#FFFFFFff" is inconsistent with the dark theme (!)
+		"statusBar.background": "#DDDDDDff",
+		
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiRed": "#CC0000",
+		"terminal.ansiGreen": "#448800",
+		"terminal.ansiYellow": "#CC8800",
+		"terminal.ansiBlue": "#0044CC",
+		"terminal.ansiMagenta": "#CC00CC",
+		"terminal.ansiCyan": "#008888",
+		"terminal.ansiWhite": "#CCCCCC",
+		"terminal.ansiBrightBlack": "#333333",
+		"terminal.ansiBrightRed": "#FF7777",
+		"terminal.ansiBrightGreen": "#BBFF77",
+		"terminal.ansiBrightYellow": "#E5C07B",
+		"terminal.ansiBrightBlue": "#77BBFF",
+		"terminal.ansiBrightMagenta": "#FF77BB",
+		"terminal.ansiBrightCyan": "#77BBBB",
+		"terminal.ansiBrightWhite": "#FFFFFF",
 	},
 	"tokenColors": [
 		// WB CONSTANTS
