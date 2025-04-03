@@ -109,7 +109,7 @@
 				"punctuation.definition.markdown",
 			],
 			"settings": {
-				"foreground": "#828282",
+				"foreground": "#444444",
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"meta.shebang.shell",
 			],
 			"settings": {
-				"foreground": "#008800",
+				"foreground": "#008844",
 			}
 		},
 		// WB HTML / WB TSX / WB XML

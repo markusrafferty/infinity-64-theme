@@ -68,7 +68,7 @@
 				"source.editorconfig constant.language",
 			],
 			"settings": {
-				"foreground": "#C2C291",
+				"foreground": "#FFFFBB",
 			}
 		},
 		{
@@ -78,8 +78,7 @@
 				"punctuation.section.embedded.end.php",
 			],
 			"settings": {
-				// "foreground": "#C291C2",
-				"foreground": "#C29191",
+				"foreground": "#FF77FF",
 			}
 		},
 		{
@@ -95,7 +94,7 @@
 				"meta.tag.metadata.doctype.html punctuation.definition.tag.end.html",
 			],
 			"settings": {
-				"foreground": "#91C2C2",
+				"foreground": "#BBBBFF",
 			}
 		},
 		{
@@ -110,7 +109,7 @@
 				"punctuation.definition.markdown",
 			],
 			"settings": {
-				"foreground": "#868686",
+				"foreground": "#BBBBBB",
 			}
 		},
 		{
@@ -119,7 +118,7 @@
 				"meta.shebang.shell",
 			],
 			"settings": {
-				"foreground": "#91C291",
+				"foreground": "#77FFBB",
 			}
 		},
 		// BB HTML / BB TSX / BB XML
@@ -1032,7 +1031,7 @@
 		{
 			"scope": "text.csv keyword.rainbow4",
 			"settings": {
-				"foreground": "#77BBFF",
+				"foreground": "#77BBBB",
 			}
 		},
 		{
