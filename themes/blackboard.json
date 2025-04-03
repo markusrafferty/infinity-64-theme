@@ -121,7 +121,7 @@
 				"foreground": "#77FFBB",
 			}
 		},
-		// BB HTML / BB TSX / BB XML
+		// BB APACHE / BB HTML / BB TSX / BB XML
 		{
 			"scope": [
 				"text.html",
@@ -137,6 +137,7 @@
 		},
 		{
 			"scope": [
+				"punctuation.definition.tag.apacheconf",
 				"entity.name.tag.html",
 				"entity.other.attribute-name.html",
 				"punctuation.definition.tag.begin.html",
@@ -155,6 +156,7 @@
 		},
 		{
 			"scope": [
+				"string.value.apacheconf",
 				"meta.tag.structure entity.name.tag.html",
 				"entity.other.attribute-name.tsx",
 				"meta.tag entity.name.tag.localname.xml",
@@ -177,6 +179,7 @@
 		},
 		{
 			"scope": [
+				"entity.tag.apacheconf",
 				"meta.attribute.id entity.other.attribute-name.html",
 				"meta.attribute.name entity.other.attribute-name.html",
 				"entity.other.attribute-name.localname.xml",
@@ -481,9 +484,10 @@
 				"foreground": "#683A3A",
 			}
 		},
-		// BB JS // BB TS // BB TSX
+		// BB APACHE / BB JS / BB TS / BB TSX
 		{
 			"scope": [
+				"source.apacheconf",
 				"source.js",
 				"source.ts",
 				"source.tsx",
@@ -515,6 +519,7 @@
 		},
 		{
 			"scope": [
+				"keyword.core.apacheconf",
 				"source.js keyword.operator",
 				"source.js keyword.control.import",
 				"source.js keyword.control.from",
@@ -554,6 +559,16 @@
 		},
 		{
 			"scope": [
+				"keyword.rewrite.apacheconf",
+				"entity.helper.apacheconf",
+			],
+			"settings": {
+				"foreground": "#6BA6E1",
+			}
+		},
+		{
+			"scope": [
+				"string.regexp.apacheconf",
 				"meta.function-call.js",
 				"variable.other.readwrite.js",
 				"variable.other.object.js",
@@ -593,6 +608,9 @@
 		},
 		{
 			"scope": [
+				"string.replacement.apacheconf",
+				"variable.misc.apacheconf",
+				"punctuation.variable.apacheconf",
 				"string.quoted.single.js",
 				"string.quoted.double.js",
 				"source.js keyword.control",
@@ -613,6 +631,7 @@
 		},
 		{
 			"scope": [
+				"source.apacheconf comment.line",
 				"comment.line.double-slash.js",
 				"comment.block.documentation.js",
 				"comment.block.js",
