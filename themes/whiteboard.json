@@ -505,11 +505,12 @@
 				"foreground": "#E6A2A2",
 			}
 		},
-		// WB APACHE / WB JS / WB TS / WB TSX
+		// WB APACHE / WB JS / WB NGINX / WB TS / WB TSX
 		{
 			"scope": [
 				"source.apacheconf",
 				"source.js",
+				"source.nginx",
 				"source.ts",
 				"source.tsx",
 				"source.js comment.block storage.type",
@@ -549,6 +550,7 @@
 				"storage.type.numeric.bigint.js",
 				"entity.name.type.class.js",
 				"entity.other.inherited-class.js",
+				"storage.type.directive.context.nginx",
 				"source.tsx keyword.operator",
 				"source.tsx keyword.control.import",
 				"source.tsx keyword.control.from",
@@ -582,6 +584,8 @@
 			"scope": [
 				"keyword.rewrite.apacheconf",
 				"entity.helper.apacheconf",
+				"punctuation.terminator.nginx",
+				"keyword.operator.nginx",
 			],
 			"settings": {
 				"foreground": "#205BD1",
@@ -599,6 +603,9 @@
 				"meta.brace.square.js",
 				"variable.language.this.js",
 				"storage.modifier.js",
+				"entity.name.context.location.nginx",
+				"keyword.directive.nginx",
+				"string.regexp.nginx",
 				"meta.function-call.ts",
 				"variable.other.readwrite.ts",
 				"variable.other.object.ts",
@@ -636,6 +643,7 @@
 				"string.quoted.double.js",
 				"source.js keyword.control",
 				"entity.name.function.js",
+				"punctuation.variable.nginx",
 				"string.quoted.single.ts",
 				"string.quoted.double.ts",
 				"source.ts keyword.control",
@@ -656,6 +664,7 @@
 				"comment.line.double-slash.js",
 				"comment.block.documentation.js",
 				"comment.block.js",
+				"source.nginx comment.line",
 				"comment.line.double-slash.ts",
 				"comment.block.documentation.ts",
 				"comment.block.ts",
