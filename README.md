@@ -40,26 +40,22 @@ Whilst no decorations are often preferential some fonts (eg. Iosevka, Hasklig, T
 			"strings":   { "fontStyle": "italic", },
 			"comments":  { "fontStyle": "italic", },
 			"textMateRules": [
-				{
-					"scope": ["punctuation"],
-					"settings": { "fontStyle": "", },
-				},
-				{
-					"scope": ["constant", "support.constant", "keyword.operator", "keyword.blade", "meta.selector.css", "markup.bold", "meta.tag.metadata.doctype", "meta.tag.preprocessor", "punctuation.section.embedded.begin.php", "comment.line.shebang", "keyword.other.definition.root", "keyword.operator.assignment.env"],
-					"settings": { "fontStyle": "bold", },
-				},
-				{
-					"scope": ["meta.section.header", "meta.section.header punctuation", "keyword.operator.glob"],
-					"settings": { "fontStyle": "underline", },
-				},
-				{
-					"scope": ["variable.language.this", "variable.other.readwrite", "variable.other.object", "markup.heading", "markup.heading punctuation", "variable.other.env"],
-					"settings": { "fontStyle": "italic underline", },
-				},
-				{
-					"scope": ["variable.other.object.property", "markdown.italic"],
-					"settings": { "fontStyle": "italic", },
-				},
+				{ "scope": ["punctuation"], "settings": { "fontStyle": "", }, },
+				{ "scope": ["constant", "support.constant", "keyword.operator", "keyword.blade", "constant.character.escape", "meta.selector.css", "markup.bold", "meta.tag.metadata.doctype", "meta.tag.preprocessor", "punctuation.section.embedded.begin.php", "comment.line.shebang", "keyword.other.definition.root", "keyword.operator.assignment.env", "keyword.core.apacheconf", "string.replacement.apacheconf", "keyword.directive.nginx", "entity.name.tag.yaml"], "settings": { "fontStyle": "bold", }, },
+				{ "scope": ["meta.section.header", "meta.section.header punctuation", "keyword.operator.glob", "entity.name.tag.namespace.xml"], "settings": { "fontStyle": "underline", }, },
+				{ "scope": ["variable.language.this", "variable.other.readwrite", "variable.other.object", "markup.heading", "markup.heading punctuation", "variable.other.env", "entity.tag.apacheconf", "storage.type.directive.context.nginx", "entity.name.scope-resolution.c", "entity.name.scope-resolution.cpp", "punctuation.separator.scope-resolution.c", "punctuation.separator.scope-resolution.cpp"], "settings": { "fontStyle": "italic underline", }, },
+				{ "scope": ["variable.other.object.property", "markup.italic.markdown", "punctuation.variable.apacheconf", "punctuation.definition.variable.nginx", "meta.method-call entity.name.function"], "settings": { "fontStyle": "italic", }, },
+				
+				{ "scope": ["comment.block punctuation.definition", "comment.block storage.type", "comment.block storage.type.class", "keyword.operator.expression.typeof", "keyword.operator.type", "punctuation.definition.template-expression.begin", "punctuation.definition.template-expression.end"], "settings": { "fontStyle": "italic", }, },
+				{ "scope": ["entity.name.tag", "punctuation.definition.tag.xml", "entity.name.tag.xml", "entity.name.tag.localname.xml", "storage.modifier", "source.json support.type", "markup.inline", "punctuation.section.arguments", "punctuation.separator.inheritance", "meta.brace.round"], "settings": { "fontStyle": "italic", }, },
+				{ "scope": ["entity.other.inherited-class", "storage.type.built-in", "source.json support.type", "meta.tag.custom entity.name.tag", "variable.other.object"], "settings": { "fontStyle": "italic underline", }, },
+				{ "scope": ["markup.heading markup.bold", "markup.heading punctuation", "variable.other.readwrite", "punctuation.definition.heading.markdown"], "settings": { "fontStyle": "bold underline", }, },
+				{ "scope": ["punctuation.definition.heading", "punctuation.section.editorconfig", "keyword.operator.glob", "markup.heading"], "settings": { "fontStyle": "bold underline", }, },
+				{ "scope": ["meta.section.header.editorconfig", "meta.section.header.editorconfig punctuation", "meta.section.header.editorconfig punctuation.definition"], "settings": { "fontStyle": "bold underline", }, },
+				{ "scope": ["punctuation.section.brace.bracket.square.begin.editorconfig", "punctuation.section.brace.bracket.square.end.editorconfig"], "settings": { "fontStyle": "bold underline", }, },
+				{ "scope": ["storage.type.template", "entity.other.attribute-name.namespace.xml"], "settings": { "fontStyle": "underline", }, },
+				{ "scope": ["storage.type.template.argument", "keyword.operator.bitwise", "fenced_code.block.language", "keyword.control.flow", "constant.other.option", "support.function.construct.begin.blade", "support.function.construct.end.blade"], "settings": { "fontStyle": "bold", }, },
+				{ "scope": ["storage.type", "keyword.control.from", "keyword.control.default", "constant.character", "constant.character.escape", "keyword.operator", "storage.type.function.arrow", "punctuation.separator.scope-resolution", "variable punctuation.definition", "meta.function-call entity.name.function"], "settings": { "fontStyle": "", }, },
 			],
 		},
 	},
